@@ -12,6 +12,8 @@
 
 I am an aspiring Ai engineer currently building his skills, i dont have much yet but lets see how this ends.
 
+"Sulayman is  tenacious, disciplined and hungry for knowledge he constantly strives to improve himself and it is admirable." - [Adam Finlayson](https://github.com/Use-ful)
+
 ### 🛠️ Tech Stack
 
 <p align="left">
